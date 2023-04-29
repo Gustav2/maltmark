@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=maltmark
+POSTGRES_USER=xErtEQqKODIpfLeFzqOfKKFYkCYvnVwB
+POSTGRES_PASSWORD=nACn0e6hD5x5wrhn8odSLoYYyqwHdA7DQXAC4ubnZ0Ts5AJW5qPLI1HGWuWeN1YL
